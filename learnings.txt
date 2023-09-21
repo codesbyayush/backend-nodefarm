@@ -1,0 +1,19 @@
+[ ~ ^ and *] => Minor bug fixes, minor feature upgrade and Major version update
+
+-> Event loop 
+-> Task Queue
+-> Threads
+
+-> setImmediateTimeout
+-> process.nextTick
+
+-> thread pool (UV_THREADPOOL_SIZE)
+-> Observer pattern
+-> EventEmitter
+
+-> Streams
+    -> Readable
+    -> writable
+    -> Duplex
+    -> Transform
+Response is a writeable stream we can stream data through it...
